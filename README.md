@@ -20,9 +20,7 @@ This web application allows users to calculate their BMI by entering their heigh
 3. Click on the "Calculate BMI" button to see your BMI value and weight status.
 
 
-## Author
 
-[Akshita Verma](https://github.com/AkshitaVermaa)
 
 
 
