@@ -19,15 +19,10 @@ This web application allows users to calculate their BMI by entering their heigh
 2. Enter your height (in centimeters) and weight (in kilograms).
 3. Click on the "Calculate BMI" button to see your BMI value and weight status.
 
-## Screenshots
-
-![Screenshot](screenshot.png)
 
 ## Author
 
-[Your Name](https://github.com/yourusername)
+[Akshita Verma](https://github.com/AkshitaVermaa)
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
